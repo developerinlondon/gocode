@@ -3,7 +3,7 @@
 Useful Resources:
 -----------------
 
-[Go By Example](gobyexample.com)
+[Go By Example](http://gobyexample.com)
 
 [Effective Go](http://golang.org/doc/effective_go.html)
 
