@@ -9,3 +9,4 @@ Useful Resources:
 
 [Go Lang Book](http://www.golang-book.com/)
 
+[Go Rspec-like Testing Framework (for BDD)](http://onsi.github.io/ginkgo/)
